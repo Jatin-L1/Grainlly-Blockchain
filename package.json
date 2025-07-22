@@ -1,0 +1,29 @@
+{
+  "name": "my_ration_system-split",
+  "version": "1.0.0",
+  "description": "**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**",
+  "main": "test-deployment.js",
+  "directories": {
+    "test": "test",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jatin-L1/Grainlly-Blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jatin-L1/Grainlly-Blockchain/issues"
+  },
+  "homepage": "https://github.com/Jatin-L1/Grainlly-Blockchain#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ethers": "^6.14.4"
+  }
+}
